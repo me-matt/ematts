@@ -1,0 +1,2 @@
+# ematts
+Configuration for emacs
